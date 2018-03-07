@@ -1,4 +1,4 @@
-## Welcome to Letexi GitHub Pages
+## 乐特喜学院
 
 You can use the [editor on GitHub](https://github.com/letexi/letexi/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
